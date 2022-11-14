@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="700pt"
-   height="700pt"
+   width="1200pt"
+   height="1200pt"
    version="1.1"
-   viewBox="0 0 700 700"
+   viewBox="0 0 1200 1200"
    id="svg48"
-   sodipodi:docname="noun-electronics-1226115.svg"
+   sodipodi:docname="lab.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -34,7 +34,7 @@
      inkscape:current-layer="svg48" />
   <g
      id="g46"
-     transform="matrix(0.99048837,0,0,0.78370303,-238.79925,-123.15994)">
+     transform="matrix(1.9131224,0,0,1.5186476,-549.54239,-300.13165)">
     <path
        d="M 387.2,704 H 492 c 28,0 50.398,-20 50.398,-45.602 v -372 C 542.398,261.597 520,240.796 492,240.796 L 387.2,240.8 c -28,0 -50.398,20 -50.398,45.602 v 372.8 c 0,24.797 22.398,44.797 50.398,44.797 z M 352.802,286.4 c 0,-16 15.199,-29.602 34.398,-29.602 H 492 c 19.199,0 34.398,12.801 34.398,29.602 v 372.8 c 0,16 -15.199,29.602 -34.398,29.602 H 387.2 c -19.199,0 -34.398,-12.801 -34.398,-29.602 z"
        id="path2" />
